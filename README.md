@@ -25,41 +25,46 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
 </p>
 
-<!-- Tech-related image -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1581091012184-8e1c6f5d6f0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="200" alt="Tech Image"/>
-</p>
-
 <!-- About Me Text -->
 <p align="center">
 
+👩‍💻 **About Me**  
+Hi! I’m **Muneeba Mir**, a passionate **Computer Science student** and **SQA Intern**. I love exploring **AI, software quality**, and **creative design**. I focus on writing **clean code**, performing **rigorous testing**, and building **efficient solutions**.  
 
-🎓 Computer Science student  
-📡 CCNA Certified  
-☁️ Completed Huawei Cloud (Basic Course)  
-🤖 Currently learning Artificial Intelligence  
-🐍 Learning Python programming  
-🎨 Familiar with graphic designing (Canva) and creative sketching  
+🎓 **Education & Certifications**  
+• Bachelor in **Computer Science**  
+• **SQA Certified**  
+• **Bafferg Digital Marketer**  
+• **Video Editor**  
+
+🤖 **Current Learning**  
+• **Artificial Intelligence Fundamentals**  
+• **Practical Networking & Cloud Concepts**  
+• **Software Testing (Manual & Automation)**  
+• **Python Programming**  
+• **Basic AI Tools & Concepts**  
 
 🛠 **Technical Skills**  
-• C & C++  
-• HTML & CSS  
-• Python (Learning)  
-• Computer Networking (CCNA)  
-• Cloud Computing (Basic Knowledge)  
-• Canva (Graphic Design & Visual Content)  
-• Git & GitHub  
+• **C & C++**  
+• **HTML & CSS**  
+• **Python (Learning)**  
+• **Cloud Computing (Basic Knowledge)**  
+• **Git & GitHub**  
+• **Software Testing & Quality Assurance**  
+• **UI/UX Design Basics**  
 
 🎨 **Creative & Design Skills**  
-• Graphic Designing (Course completed – concepts based)  
-• Sketching & Hand Drawing  
+• **Graphic Designing (Canva & Visual Content)**  
+• **Video Editing & Content Creation**  
 
-📚 **Currently Learning**  
-• Artificial Intelligence fundamentals  
-• Python for logic building and automation  
-• Practical networking and cloud concepts  
+📚 **Interests & Hobbies**  
+• Exploring **AI & ML projects**  
+• Building **mini web apps and tools**  
+• Designing **creative visuals**  
+• Problem-solving and coding challenges  
 
 </p>
+
 
 
 
