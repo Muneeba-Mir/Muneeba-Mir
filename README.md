@@ -22,7 +22,7 @@
 
 <!-- Capsule Heading -->
 #<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=71797E&center=true&vCenter=true&width=600&height=70&lines=About%20Me"/>
+  <img src="https://capsule-render.vercel.app/api?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=71797E&center=true&vCenter=true&width=600&height=70&lines=About%20Me"/>
 </p>
 
 
