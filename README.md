@@ -229,13 +229,13 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <!-- ===================== FOOTER ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=140&section=footer"/>
-</p>
+<div align="center">
 
-<p align="center">
-✨ <i>Consistent learning • Clean work • Strong foundations</i> ✨  
-</p>
+  <p>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=160&section=footer&fontSize=28&fontColor=ffffff&desc=Consistent%20learning%20•%20Clean%20work%20•%20Strong%20foundations&descAlign=50&descAlignY=70"/>
+  </p>
+
+</div>
 
 
 
