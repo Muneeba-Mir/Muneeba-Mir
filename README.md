@@ -23,14 +23,62 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
 </p>
 
-| **Section** | **Details** |
-|-------------|-------------|
-| 👩‍💻 **About Me** | Hi! I’m **Muneeba Mir**, a passionate **Computer Science student** and **SQA Intern**. I love exploring **AI, software quality**, and **creative design**. I focus on writing **clean code**, performing **rigorous testing**, and building **efficient solutions**. |
-| 🎓 **Education & Certifications** | • Bachelor in **Computer Science**<br>• **SQA Certified**<br>• **Bafferg Digital Marketer**<br>• **Video Editor** |
-| 🤖 **Current Learning** | • **Artificial Intelligence Fundamentals**<br>• **Practical Networking & Cloud Concepts**<br>• **Software Testing (Manual & Automation)**<br>• **Python Programming**<br>• **Basic AI Tools & Concepts** |
-| 🛠 **Technical Skills** | • **C & C++**<br>• **HTML & CSS**<br>• **Python (Learning)**<br>• **Cloud Computing (Basic Knowledge)**<br>• **Git & GitHub**<br>• **Software Testing & Quality Assurance**<br>• **UI/UX Design Basics** |
-| 🎨 **Creative & Design Skills** | • **Graphic Designing (Canva & Visual Content)**<br>• **Video Editing & Content Creation** |
-| 📚 **Interests & Hobbies** | • Exploring **AI & ML projects**<br>• Building **mini web apps and tools**<br>• Designing **creative visuals**<br>• Problem-solving and coding challenges |
+<!-- Main About Me text (outside table) -->
+<p align="center">
+Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <b>SQA Intern</b>. I love exploring <b>AI, software quality</b>, and <b>creative design</b>. I focus on writing <b>clean code</b>, performing <b>rigorous testing</b>, and building <b>efficient solutions</b>.
+</p>
+
+<!-- Table for all other structured info -->
+<table align="center" width="600" style="border-collapse: collapse; text-align: left;">
+  <tr>
+    <td width="200"><b>🎓 Education & Certifications</b></td>
+    <td>
+      • Bachelor in <b>Computer Science</b><br>
+      • <b>SQA Certified</b><br>
+      • <b>Bafferg Digital Marketer</b><br>
+      • <b>Video Editor</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><b>🤖 Current Learning</b></td>
+    <td>
+      • <b>Artificial Intelligence Fundamentals</b><br>
+      • <b>Practical Networking & Cloud Concepts</b><br>
+      • <b>Software Testing (Manual & Automation)</b><br>
+      • <b>Python Programming</b><br>
+      • <b>Basic AI Tools & Concepts</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><b>🛠 Technical Skills</b></td>
+    <td>
+      • <b>C & C++</b><br>
+      • <b>HTML & CSS</b><br>
+      • <b>Python (Learning)</b><br>
+      • <b>Cloud Computing (Basic Knowledge)</b><br>
+      • <b>Git & GitHub</b><br>
+      • <b>Software Testing & Quality Assurance</b><br>
+      • <b>UI/UX Design Basics</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><b>🎨 Creative & Design Skills</b></td>
+    <td>
+      • <b>Graphic Designing (Canva & Visual Content)</b><br>
+      • <b>Video Editing & Content Creation</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><b>📚 Interests & Hobbies</b></td>
+    <td>
+      • Exploring <b>AI & ML projects</b><br>
+      • Building <b>mini web apps and tools</b><br>
+      • Designing <b>creative visuals</b><br>
+      • Problem-solving and coding challenges
+    </td>
+  </tr>
+</table>
+
 
 
 
