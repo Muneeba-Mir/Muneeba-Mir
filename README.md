@@ -116,8 +116,6 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   </tr>
 </table>
 
-<!-- ===================== TECH STACK & SKILLS ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Tech+Stack+%26+Skills&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
 </p>
@@ -146,12 +144,6 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br>
       <b>CSS3</b><br>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="100"/>
-    </td>
-
-    <td align="center" style="padding:10px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><br>
-      <b>JavaScript</b><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="100"/>
     </td>
 
     <td align="center" style="padding:10px;">
