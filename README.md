@@ -34,6 +34,15 @@
 
 
 
+<!-- ===================== CODING & TESTING ICONS ===================== -->
+
+<p align="center">
+  <!-- Coding Icon -->
+  <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="80" alt="Coding Animation" style="margin-right: 20px;"/>
+  
+  <!-- Testing Icon -->
+  <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="80" alt="Testing Animation"/>
+</p>
 
 
 
