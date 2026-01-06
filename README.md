@@ -19,14 +19,13 @@
 ---
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<!-- Animated heading inside rectangle with Welcome banner color -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
-</p>
+<!-- Animated About Me heading with typewriting effect -->
+<h2 align="center" id="aboutMeHeading" style="color: #ffffff; background-color: #0f202743; display: inline-block; padding: 15px 30px; font-size: 32px; font-weight: 700; border-radius: 0;">
+</h2>
 
 <!-- Tech-related image (working version) -->
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="120" alt="Tech Icon"/>
+  <img src="https://images.unsplash.com/photo-1581091012184-8e1c6f5d6f0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="200" alt="Tech Image"/>
 </p>
 
 <!-- Shortened and clean About Me text -->
@@ -37,6 +36,24 @@
 
   ✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
 </div>
+
+<!-- Typewriting animation script -->
+<script>
+  const heading = document.getElementById("aboutMeHeading");
+  const text = "About Me";
+  let index = 0;
+
+  function typeWriter() {
+    if (index < text.length) {
+      heading.innerHTML += text.charAt(index);
+      index++;
+      setTimeout(typeWriter, 150); // typing speed in ms
+    }
+  }
+
+  typeWriter();
+</script>
+
 
 
 
