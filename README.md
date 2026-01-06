@@ -87,7 +87,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 <!-- ===================== CURRENT FOCUS ===================== -->
 <br></br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
+  <img src="https://readme-typing-svg.demolab.com?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 <br></br>
 <!-- Table layout: 2 boxes per row -->
