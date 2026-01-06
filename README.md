@@ -20,14 +20,16 @@
 
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
+<!-- ===================== ABOUT ME SECTION ===================== -->
+
 <!-- Animated About Me heading -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=About+Me"/>
 </p>
 
-<!-- Tech-related image below heading -->
+<!-- Tech-related image below heading (direct GitHub link) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/software-development/software-development.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Muneeba-Mir/Muneeba-Mir/main/assets/tech_image.png" width="300"/>
 </p>
 
 <!-- Short and centered About Me text -->
@@ -36,6 +38,7 @@
 I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
 ✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
 </p>
+
 
 
 
