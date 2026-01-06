@@ -118,6 +118,8 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 ## 🛠️ Tech Stack & Skills
 
+## <p align="center">🛠️ Tech Stack & Skills</p>
+
 <p align="center">
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
@@ -129,6 +131,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 
 </p>
+
 
 
 
