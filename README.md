@@ -83,7 +83,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <br></br>
 <!-- ===================== CURRENT FOCUS ===================== -->
-
+<br></br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
@@ -120,7 +120,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 
 <!-- ===================== TECH STACK ===================== -->
-
+<br></br>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
 </p>
