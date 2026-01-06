@@ -21,7 +21,7 @@
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
 <!-- Capsule Heading -->
-<p align="center">
+#<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
 </p>
 
