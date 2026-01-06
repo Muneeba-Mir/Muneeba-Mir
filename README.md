@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 <!-- ===================== ANIMATED WELCOME BANNER ===================== -->
 
 <p align="center">
@@ -22,10 +30,8 @@
 
 <!-- Capsule Heading -->
 #<p align="center">
-  <img src="https://capsule-render.vercel.app/api?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=71797E&center=true&vCenter=true&width=600&height=70&lines=About%20Me"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
 </p>
-
-
 
 <!-- About Me text inside fixed width div -->
 <div align="center" style="width:600px; margin:auto; text-align:center;">
@@ -87,7 +93,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 <!-- ===================== CURRENT FOCUS ===================== -->
 <br></br>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 <br></br>
 <!-- Table layout: 2 boxes per row -->
@@ -177,12 +183,6 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
-
-
-
-
-
 
 
 
