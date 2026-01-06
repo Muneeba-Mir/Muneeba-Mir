@@ -81,13 +81,13 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   </tr>
 </table>
 
-
+<br></br>
 <!-- ===================== CURRENT FOCUS ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
-
+<br></br>
 <!-- Table layout: 2 boxes per row -->
 <table align="center" style="border-collapse: collapse; width: 600px; text-align:center;">
   <tr>
@@ -116,7 +116,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   </tr>
 </table>
 
-
+<br></br>
 
 
 <!-- ===================== TECH STACK ===================== -->
