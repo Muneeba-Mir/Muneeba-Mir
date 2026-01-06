@@ -190,9 +190,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&fontWeight=700" alt="GitHub Analytics Heading"/>
-</p>
+
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Muneeba-Mir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027"/>
