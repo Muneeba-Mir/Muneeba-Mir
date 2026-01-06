@@ -148,19 +148,85 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 
 
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
+</p>
+
+<!-- Current Focus Icons + Labels -->
+<table align="center" style="width:600px; text-align:center; border-collapse: collapse;">
+  <tr>
+    <td style="padding:15px;">
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60"/><br>
+      <b>OOP (C++)</b>
+    </td>
+    <td style="padding:15px;">
+      <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60"/><br>
+      <b>Software QA</b>
+    </td>
+    <td style="padding:15px;">
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60"/><br>
+      <b>AI Basics</b>
+    </td>
+    <td style="padding:15px;">
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60"/><br>
+      <b>UI & Graphic Design</b>
+    </td>
+    <td style="padding:15px;">
+      <img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60"/><br>
+      <b>Graphic Design</b>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===================== TECH STACK ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
+</p>
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/>
+</p>
+
+<p align="center">
+  <!-- Animated Tech & Tools -->
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="55"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="55"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="55"/>
+</p>
+
+<p align="center">
+🧪 Manual Testing &nbsp;&nbsp;|&nbsp;&nbsp;
+📋 Test Case Design &nbsp;&nbsp;|&nbsp;&nbsp;
+🐞 Bug Reporting &nbsp;&nbsp;|&nbsp;&nbsp;
+🔁 SDLC & STLC
+</p>
+
+<br>
+
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&fontWeight=700" alt="GitHub Analytics Heading"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&fontWeight=700" alt="GitHub Analytics Heading"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muneeba-Mir&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Muneeba-Mir&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Muneeba-Mir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muneeba-Mir&theme=tokyonight&hide_border=true&background=0f2027"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneeba-Mir&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneeba-Mir&bg_color=0f2027&color=9FEAF9&line=203a43&point=ffffff&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -169,10 +235,17 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <br>
 
+<!-- ===================== CONTACT ===================== -->
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Get%20in%20Touch&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Contact Heading"/>
+</p>
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<br>
 
 
 <!-- ===================== CONTACT ===================== -->
