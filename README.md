@@ -17,7 +17,6 @@
 
 
 
-<!-- ===================== ABOUT ME SECTION ===================== -->
 
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
@@ -28,7 +27,7 @@
 
 <!-- About Me text inside fixed width div -->
 <div align="center" style="width:600px; margin:auto; text-align:center;">
-Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <b>SQA Intern</b>. I love exploring <b>AI, software quality</b>, and <b>creative design</b>. I focus on writing <b>clean code</b>, performing <b>rigorous testing</b>, and building <b>efficient solutions</b>.
+Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <b>SQA Intern</b>. I love exploring <b><br></br>AI, software quality</b>, and <b>creative design</b>. I focus on writing <b>clean code</b>, performing <b>rigorous testing</b>, and building <b>efficient solutions</b>.
 </div>
 
 <!-- Table for structured info -->
@@ -72,7 +71,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
     </td>
   </tr>
   <tr>
-    <td width="200"><b>📚 Interests & Hobbies</b></td>
+    <td width="200"><b>📚 Interests </b></td>
     <td>
       • Exploring <b>AI & ML projects</b><br>
       • Building <b>mini web apps and tools</b><br>
