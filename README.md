@@ -16,13 +16,14 @@
 
 
 
----
+
+
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<!-- About Me heading inside rectangle with typewriting animation -->
-<div align="center" style="background-color: #0f202743; display: inline-block; padding: 15px 30px; border-radius: 0;">
-  <h2 id="aboutMeHeading" style="color: #ffffff; font-size: 32px; font-weight: 700; margin: 0;"></h2>
-</div>
+<!-- About Me heading (Capsule-style static) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
+</p>
 
 <!-- Tech-related image -->
 <p align="center">
@@ -30,30 +31,14 @@
 </p>
 
 <!-- About Me text -->
-<div align="center" style="max-width: 600px; margin: auto; text-align: center;">
-  💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
+<p align="center">
+💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
 
-  I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
+I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
 
-  ✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
-</div>
+✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
+</p>
 
-<!-- Typewriting animation script -->
-<script>
-  const heading = document.getElementById("aboutMeHeading");
-  const text = "About Me";
-  let index = 0;
-
-  function typeWriter() {
-    if (index < text.length) {
-      heading.innerHTML += text.charAt(index);
-      index++;
-      setTimeout(typeWriter, 150); // typing speed
-    }
-  }
-
-  typeWriter();
-</script>
 
 
 
