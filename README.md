@@ -122,8 +122,18 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Tech%20Stack%20%26%20Skills&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
 </p>
 
+<!-- Tech icons under heading -->
+<p align="center" style="margin-top:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
+</p>
+
 <!-- Table layout for Tech Stack cards -->
-<table align="center" style="border-collapse: collapse; width:600px; text-align:center;">
+<table align="center" style="border-collapse: collapse; width:600px; text-align:center; margin-top:20px;">
   <tr>
     <!-- C++ -->
     <td style="padding:15px;">
@@ -161,7 +171,19 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
     <td style="padding:15px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/><br>
       <b>Git</b><br>
-      Int
+      Intermediate<br>
+      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    </td>
+    <!-- GitHub -->
+    <td style="padding:15px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/><br>
+      <b>GitHub</b><br>
+      Intermediate<br>
+      ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+    </td>
+  </tr>
+</table>
+
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
