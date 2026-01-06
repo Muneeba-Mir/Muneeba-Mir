@@ -116,9 +116,6 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   </tr>
 </table>
 
-<br></br>
-
-
 <!-- ===================== TECH STACK ===================== -->
 <br></br>
 <p align="center">
