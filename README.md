@@ -118,12 +118,10 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <!-- ===================== TECH STACK & SKILLS ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Tech%20Stack%20%26%20Skills&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
-</p>
+# 🛠️ Tech Stack & Skills
 
-<!-- Tech icons under heading -->
-<p align="center" style="margin-top:10px;">
+<!-- Tech icons -->
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
@@ -132,57 +130,16 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
 </p>
 
-<!-- Table layout for Tech Stack cards -->
-<table align="center" style="border-collapse: collapse; width:600px; text-align:center; margin-top:20px;">
-  <tr>
-    <!-- C++ -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/><br>
-      <b>C++</b><br>
-      Intermediate<br>
-      ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-    </td>
-    <!-- Python -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/><br>
-      <b>Python</b><br>
-      Intermediate<br>
-      ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-    </td>
-  </tr>
-  <tr>
-    <!-- HTML5 -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/><br>
-      <b>HTML5</b><br>
-      Learning<br>
-      ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    </td>
-    <!-- CSS3 -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/><br>
-      <b>CSS3</b><br>
-      Learning<br>
-      ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    </td>
-  </tr>
-  <tr>
-    <!-- Git -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/><br>
-      <b>Git</b><br>
-      Intermediate<br>
-      ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    </td>
-    <!-- GitHub -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/><br>
-      <b>GitHub</b><br>
-      Intermediate<br>
-      ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-    </td>
-  </tr>
-</table>
+<!-- Skills table -->
+| Skill | Level | Badge |
+|-------|-------|-------|
+| C++ | Intermediate | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) |
+| Python | Intermediate | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| HTML5 | Learning | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |
+| CSS3 | Learning | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| Git | Intermediate | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| GitHub | Intermediate | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+
 
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
