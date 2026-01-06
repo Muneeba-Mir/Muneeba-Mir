@@ -21,12 +21,28 @@
 ---
 
 <!-- ===================== ABOUT ME ===================== -->
-## 🌱 About Me
-💡 Passionate about **Software Quality**, **AI foundations**, and **clean design**  
-📚 Currently building strong concepts in **Programming, OOP & Software Testing**  
-✨ Believe in *learning by doing and improving every day*
 
----
+
+<h2 align="center">🌱 About Me</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:3A3A3A&height=100&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1000&color=2B2B2B&center=true&vCenter=true&width=650&lines=Hi!+I'm+Muneeba+Mir;A+Computer+Science+Student;SQA+Intern+&+AI+Enthusiast;Passionate+about+Quality+and+Clean+Design;Always+Learning+by+Doing"/>
+</p>
+
+<p align="center">
+💡 Passionate about <b>Software Quality Assurance</b>, <b>AI foundations</b>, and <b>clean design</b><br>
+📚 Building strong concepts in <b>Programming, OOP & Testing</b><br>
+✨ Believe in <i>consistent learning, clean work & strong foundations</i>
+</p>
+
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 ## 🎯 Current Focus
