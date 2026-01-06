@@ -22,7 +22,7 @@
 
 <!-- Capsule Heading -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=696969&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=969696&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
 </p>
 
 <!-- About Me text inside fixed width div -->
