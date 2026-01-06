@@ -84,40 +84,41 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 
-<!-- Table layout for rectangular cards -->
+<!-- Table layout for rectangular cards, 2 per row -->
 <table align="center" style="border-collapse: collapse; width: 600px; margin:auto;">
   <tr>
     <!-- Card 1 -->
-    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; margin:5px;">
+    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; width:290px; margin:5px;">
       🧪<br><b>Software QA</b>
     </td>
     <!-- Card 2 -->
-    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; margin:5px;">
+    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; width:290px; margin:5px;">
       💻<br><b>OOP (C++)</b>
-    </td>
-    <!-- Card 3 -->
-    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; margin:5px;">
-      🧠<br><b>AI Basics</b>
     </td>
   </tr>
   <tr>
+    <!-- Card 3 -->
+    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; width:290px; margin:5px;">
+      🧠<br><b>AI Basics</b>
+    </td>
     <!-- Card 4 -->
-    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; margin:5px;">
+    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; width:290px; margin:5px;">
       🎨<br><b>UI & Graphic Design</b>
     </td>
+  </tr>
+  <tr>
     <!-- Card 5 -->
-    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; margin:5px;">
+    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; width:290px; margin:5px;">
       🖌<br><b>Graphic Design</b>
     </td>
-    <td></td> <!-- Empty for alignment -->
-  </tr>
-</table>
+    <!-- Card 6 -->
+    <td align="center" bgcolor="#0f2027" style="padding:15px; border-radius:8px; color:white; width:290px; margin:5px;">
+      🎬<br><b
+
 
 
 <!-- ===================== TECH STACK ===================== -->
