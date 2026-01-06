@@ -82,49 +82,32 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 </table>
 
 
-
-
-
-<!-- ===================== CODING & TESTING ICONS ===================== -->
-
-<p align="center">
-  <!-- Coding Icon -->
-  <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="80" alt="Coding Animation" style="margin-right: 20px;"/>
-  
-  <!-- Testing Icon -->
-  <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="80" alt="Testing Animation"/>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- ===================== CURRENT FOCUS ===================== -->
-## 🎯 Current Focus
+
 <p align="center">
-  🧪 <b>Software Quality Assurance</b> &nbsp;|&nbsp;
-  💻 <b>OOP (C++)</b> &nbsp;|&nbsp;
-  🧠 <b>AI Basics</b> &nbsp;|&nbsp;
-  🎨 <b>UI & Graphic Design</b>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 
----
+<p align="center">
+
+<!-- Animated icons for each focus area -->
+<img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60" alt="OOP C++"/> &nbsp;
+<b>OOP (C++)</b> &nbsp;|&nbsp;
+
+<img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60" alt="SQA"/> &nbsp;
+<b>Software Quality Assurance</b> &nbsp;|&nbsp;
+
+<img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60" alt="AI Basics"/> &nbsp;
+<b>AI Basics</b> &nbsp;|&nbsp;
+
+<img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60" alt="UI Design"/> &nbsp;
+<b>UI & Graphic Design</b> &nbsp;|&nbsp;
+
+<img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60" alt="Graphic Design"/> &nbsp;
+<b>Graphic Design</b>
+
+</p>
+
 
 <!-- ===================== ANIMATED TECH STACK ===================== -->
 ## 🛠️ Tech Stack
