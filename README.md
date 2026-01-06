@@ -88,36 +88,31 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 
-<!-- Table layout for icons + text -->
-<table align="center" style="text-align:center;">
+<table align="center">
   <tr>
-    <!-- OOP C++ -->
-    <td>
-      <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60" alt="OOP C++"/><br>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60"/><br>
       <b>OOP (C++)</b>
     </td>
-    <!-- Software QA -->
-    <td>
-      <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60" alt="SQA"/><br>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60"/><br>
       <b>Software QA</b>
     </td>
-    <!-- AI Basics -->
-    <td>
-      <img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60" alt="AI Basics"/><br>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60"/><br>
       <b>AI Basics</b>
     </td>
-    <!-- UI & Graphic Design -->
-    <td>
-      <img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60" alt="UI & Graphic Design"/><br>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60"/><br>
       <b>UI & Graphic Design</b>
     </td>
-    <!-- Graphic Design -->
-    <td>
-      <img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60" alt="Graphic Design"/><br>
+    <td align="center" style="padding: 10px;">
+      <img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60"/><br>
       <b>Graphic Design</b>
     </td>
   </tr>
 </table>
+
 
 
 
