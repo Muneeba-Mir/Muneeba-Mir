@@ -163,9 +163,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneeba-Mir&bg_color=0f2027&color=9FEAF9&line=203a43&point=ffffff&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muneeba-Mir&theme=tokyonight&no-frame=true&row=1"/>
-</p>
+
 
 <br>
 
