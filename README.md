@@ -30,14 +30,37 @@
   <img src="https://images.unsplash.com/photo-1581091012184-8e1c6f5d6f0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="200" alt="Tech Image"/>
 </p>
 
-<!-- About Me text -->
+<!-- About Me Text -->
 <p align="center">
-💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
 
-I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
 
-✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
+🎓 Computer Science student  
+📡 CCNA Certified  
+☁️ Completed Huawei Cloud (Basic Course)  
+🤖 Currently learning Artificial Intelligence  
+🐍 Learning Python programming  
+🎨 Familiar with graphic designing (Canva) and creative sketching  
+
+🛠 **Technical Skills**  
+• C & C++  
+• HTML & CSS  
+• Python (Learning)  
+• Computer Networking (CCNA)  
+• Cloud Computing (Basic Knowledge)  
+• Canva (Graphic Design & Visual Content)  
+• Git & GitHub  
+
+🎨 **Creative & Design Skills**  
+• Graphic Designing (Course completed – concepts based)  
+• Sketching & Hand Drawing  
+
+📚 **Currently Learning**  
+• Artificial Intelligence fundamentals  
+• Python for logic building and automation  
+• Practical networking and cloud concepts  
+
 </p>
+
 
 
 
