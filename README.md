@@ -88,39 +88,37 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 
-<p align="center">
+<!-- Table layout for icons + text -->
+<table align="center" style="text-align:center;">
+  <tr>
+    <!-- OOP C++ -->
+    <td>
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60" alt="OOP C++"/><br>
+      <b>OOP (C++)</b>
+    </td>
+    <!-- Software QA -->
+    <td>
+      <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60" alt="SQA"/><br>
+      <b>Software QA</b>
+    </td>
+    <!-- AI Basics -->
+    <td>
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60" alt="AI Basics"/><br>
+      <b>AI Basics</b>
+    </td>
+    <!-- UI & Graphic Design -->
+    <td>
+      <img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60" alt="UI & Graphic Design"/><br>
+      <b>UI & Graphic Design</b>
+    </td>
+    <!-- Graphic Design -->
+    <td>
+      <img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60" alt="Graphic Design"/><br>
+      <b>Graphic Design</b>
+    </td>
+  </tr>
+</table>
 
-<!-- OOP C++ -->
-<span style="display:inline-block; margin: 0 20px; text-align:center;">
-  <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60" alt="OOP C++"/><br>
-  <b>OOP (C++)</b>
-</span>
-
-<!-- Software Quality Assurance -->
-<span style="display:inline-block; margin: 0 20px; text-align:center;">
-  <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60" alt="SQA"/><br>
-  <b>Software QA</b>
-</span>
-
-<!-- AI Basics -->
-<span style="display:inline-block; margin: 0 20px; text-align:center;">
-  <img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60" alt="AI Basics"/><br>
-  <b>AI Basics</b>
-</span>
-
-<!-- UI & Graphic Design -->
-<span style="display:inline-block; margin: 0 20px; text-align:center;">
-  <img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60" alt="UI & Graphic Design"/><br>
-  <b>UI & Graphic Design</b>
-</span>
-
-<!-- Graphic Design -->
-<span style="display:inline-block; margin: 0 20px; text-align:center;">
-  <img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60" alt="Graphic Design"/><br>
-  <b>Graphic Design</b>
-</span>
-
-</p>
 
 
 
