@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:2b2b2b,100:3a3a3a&height=260&section=header&text=Muneeba%20Mir&fontSize=46&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1200&color=2B2B2B&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Muneeba+Mir;Computer+Science+Student;SQA+Intern;AI+%26+Design+Enthusiast;Building+Quality+Step+by+Step"/>
+
 
 </p>
 
