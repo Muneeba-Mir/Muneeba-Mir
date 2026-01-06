@@ -154,33 +154,23 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 
-<!-- Current Focus Icons + Labels -->
+<!-- ===================== CURRENT FOCUS ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" />
+</p>
+
 <table align="center" style="width:600px; text-align:center; border-collapse: collapse;">
   <tr>
-    <td style="padding:15px;">
-      <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60"/><br>
+    <td style="padding:20px;">
+      <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60"/><br>
       <b>OOP (C++)</b>
     </td>
-    <td style="padding:15px;">
-      <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60"/><br>
+    <td style="padding:20px;">
+      <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/><br>
       <b>Software QA</b>
     </td>
-    <td style="padding:15px;">
-      <img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60"/><br>
-      <b>AI Basics</b>
-    </td>
-    <td style="padding:15px;">
-      <img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60"/><br>
-      <b>UI & Graphic Design</b>
-    </td>
-    <td style="padding:15px;">
-      <img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60"/><br>
-      <b>Graphic Design</b>
-    </td>
-  </tr>
-</table>
 
-<br>
 
 <!-- ===================== TECH STACK ===================== -->
 
