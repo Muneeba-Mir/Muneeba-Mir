@@ -24,19 +24,20 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
 </p>
 
-<!-- Tech-related image below heading -->
+<!-- Tech-related image (working version) -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581091870628-813c70c05b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="320"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" width="120" alt="Tech Icon"/>
 </p>
 
 <!-- Shortened and clean About Me text -->
-<p align="center">
-💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
+<div align="center" style="max-width: 600px; margin: auto; text-align: center;">
+  💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
 
-I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
+  I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
 
-✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
-</p>
+  ✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
+</div>
+
 
 
 
