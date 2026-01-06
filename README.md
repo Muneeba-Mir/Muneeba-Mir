@@ -19,16 +19,19 @@
 
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
+<!-- ===================== ABOUT ME SECTION ===================== -->
+
+<!-- Capsule Heading -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
 </p>
 
-<!-- Main About Me text (outside table) -->
-<p align="center">
+<!-- About Me text inside fixed width div -->
+<div align="center" style="width:600px; margin:auto; text-align:center;">
 Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <b>SQA Intern</b>. I love exploring <b>AI, software quality</b>, and <b>creative design</b>. I focus on writing <b>clean code</b>, performing <b>rigorous testing</b>, and building <b>efficient solutions</b>.
-</p>
+</div>
 
-<!-- Table for all other structured info -->
+<!-- Table for structured info -->
 <table align="center" width="600" style="border-collapse: collapse; text-align: left;">
   <tr>
     <td width="200"><b>🎓 Education & Certifications</b></td>
@@ -78,6 +81,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
     </td>
   </tr>
 </table>
+
 
 
 
