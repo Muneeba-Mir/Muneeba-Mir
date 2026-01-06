@@ -22,8 +22,9 @@
 
 <!-- Capsule Heading -->
 #<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:71797E,100:0f2027&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn" alt="About Me Heading"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=71797E&center=true&vCenter=true&width=600&lines=About%20Me"/>
 </p>
+
 
 <!-- About Me text inside fixed width div -->
 <div align="center" style="width:600px; margin:auto; text-align:center;">
