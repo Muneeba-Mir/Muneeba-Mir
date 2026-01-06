@@ -85,7 +85,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 <!-- ===================== CURRENT FOCUS ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 
 <!-- Table layout: 2 boxes per row -->
@@ -122,7 +122,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 <!-- ===================== TECH STACK ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
 </p>
 
 <p align="center">
@@ -154,7 +154,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&fontWeight=700" alt="GitHub Analytics Heading"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&fontWeight=700" alt="GitHub Analytics Heading"/>
 </p>
 
 <p align="center">
