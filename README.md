@@ -85,7 +85,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 <!-- ===================== CURRENT FOCUS ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color71797E=&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
 
 <div align="center" style="width:600px; margin:auto; text-align:left;">
