@@ -17,12 +17,13 @@
 
 
 ---
-
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<!-- Animated heading -->
+<!-- Animated heading in rectangular box with same gradient as Welcome -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=About+Me"/>
+  <span style="display:inline-block; background: linear-gradient(90deg, #0f2027 0%, #203a43 100%); color: #ffffff; padding: 12px 25px; font-size:32px; font-weight:700; font-family:Poppins;">
+    About Me
+  </span>
 </p>
 
 <!-- Tech-related image below heading -->
@@ -36,6 +37,7 @@
 I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
 ✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
 </p>
+
 
 
 
