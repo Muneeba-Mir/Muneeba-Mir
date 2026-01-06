@@ -14,31 +14,33 @@
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="280"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muneeba-Mir&label=Profile%20Views&color=203a43&style=flat"/>
-</p>
+
 
 ---
 
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=2B2B2B&center=true&vCenter=true&width=650&lines=About+Me"/>
-</h2>
-
+<!-- Animated heading inside rectangle box -->
 <p align="center">
-  <img src="https://media.istockphoto.com/id/1276240732/vector/software-development-concept-coding-programming-and-testing-software-developer-or-engineer.jpg?s=612x612&w=is&k=20&c=5_Du-Q_kX9gW_SuRLGaJTHfjo-rpKkP1KjvM2URB1x4=" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2B2B2B&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
 </p>
 
+<!-- Tech-related image below heading -->
 <p align="center">
-💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>delivering high-quality software</b> and exploring the ever-evolving world of <b>Artificial Intelligence</b>.<br><br>
+  <img src="https://images.unsplash.com/photo-1581091870628-813c70c05b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTI0NjB8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tcHV0ZXIlMjBkZXZlbG9wbWVudHxlbnwwfHx8fDE2OTkxMzI1NjQ&ixlib=rb-4.0.3&q=80&w=400" width="320"/>
+</p>
 
-I enjoy designing <b>clean, efficient solutions</b>, analyzing systems critically, and testing rigorously to ensure reliability. My focus is on <b>learning by doing</b>, building strong programming concepts in <b>C++ and Python</b>, and applying <b>best practices in Software Quality Assurance</b>.<br><br>
+<!-- Extended About Me text -->
+<p align="center">
+💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>delivering high-quality software</b> and exploring the evolving world of <b>Artificial Intelligence</b>.<br><br>
 
-Beyond coding and testing, I am fascinated by <b>UI/UX and graphic design</b>, which allows me to create <b>user-friendly and visually appealing applications</b>. I continuously strive to improve my skills, embrace challenges, and contribute to projects that make a difference.<br><br>
+I enjoy designing <b>clean, efficient solutions</b>, analyzing systems critically, and testing rigorously to ensure reliability. I’m focused on <b>learning by doing</b>, building strong programming concepts in <b>C++ and Python</b>, and applying <b>best practices in Software Quality Assurance</b>.<br><br>
+
+Beyond coding and testing, I love <b>UI/UX and graphic design</b>, which allows me to create <b>user-friendly and visually appealing applications</b>. I continuously strive to improve my skills, embrace challenges, and contribute to projects that make a difference.<br><br>
 
 ✨ <b>Strong believer in clean work, consistent learning, and building solid foundations for a successful tech career.</b>
 </p>
+
 
 
 
