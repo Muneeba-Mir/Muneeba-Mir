@@ -118,54 +118,53 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <!-- ===================== TECH STACK & SKILLS ===================== -->
 
-<!-- ===================== TECH STACK & SKILLS ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Tech%20Stack%20%26%20Skills&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
 </p>
 
-<!-- Horizontal table layout for Tech Stack cards -->
-<table align="center" style="border-collapse: collapse; text-align:center;">
-  <tr>
-    <!-- C++ -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/><br>
-      <b>C++</b><br>
-      Intermediate<br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    </td>
-    <!-- Python -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/><br>
-      <b>Python</b><br>
-      Intermediate<br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    </td>
-    <!-- HTML5 -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/><br>
-      <b>HTML5</b><br>
-      Learning<br>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </td>
-    <!-- CSS3 -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/><br>
-      <b>CSS3</b><br>
-      Learning<br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </td>
-    <!-- Git -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/><br>
-      <b>Git</b><br>
-      Intermediate<br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-    </td>
-    <!-- GitHub -->
-    <td style="padding:15px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/><br>
-      <b>GitHub</b>
+<p align="center">
+  <!-- C++ -->
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/><br>
+    <b>C++</b><br>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  </span>
+  
+  <!-- Python -->
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/><br>
+    <b>Python</b><br>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </span>
+  
+  <!-- HTML5 -->
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"/><br>
+    <b>HTML5</b><br>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </span>
+  
+  <!-- CSS3 -->
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"/><br>
+    <b>CSS3</b><br>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </span>
+  
+  <!-- Git -->
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"/><br>
+    <b>Git</b><br>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  </span>
+  
+  <!-- GitHub -->
+  <span style="display:inline-block; margin:10px; text-align:center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"/><br>
+    <b>GitHub</b><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </span>
+</p>
 
 
 
