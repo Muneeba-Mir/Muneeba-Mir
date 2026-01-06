@@ -156,7 +156,8 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
       <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60"/><br>
       <b>Software QA</b>
     </td>
-
+  </tr>
+</table>
 
 <!-- ===================== TECH STACK ===================== -->
 
