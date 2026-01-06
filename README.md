@@ -19,16 +19,17 @@
 ---
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<!-- Animated About Me heading with typewriting effect -->
-<h2 align="center" id="aboutMeHeading" style="color: #ffffff; background-color: #0f202743; display: inline-block; padding: 15px 30px; font-size: 32px; font-weight: 700; border-radius: 0;">
-</h2>
+<!-- About Me heading inside rectangle with typewriting animation -->
+<div align="center" style="background-color: #0f202743; display: inline-block; padding: 15px 30px; border-radius: 0;">
+  <h2 id="aboutMeHeading" style="color: #ffffff; font-size: 32px; font-weight: 700; margin: 0;"></h2>
+</div>
 
-<!-- Tech-related image (working version) -->
+<!-- Tech-related image -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1581091012184-8e1c6f5d6f0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="200" alt="Tech Image"/>
 </p>
 
-<!-- Shortened and clean About Me text -->
+<!-- About Me text -->
 <div align="center" style="max-width: 600px; margin: auto; text-align: center;">
   💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
 
@@ -47,12 +48,13 @@
     if (index < text.length) {
       heading.innerHTML += text.charAt(index);
       index++;
-      setTimeout(typeWriter, 150); // typing speed in ms
+      setTimeout(typeWriter, 150); // typing speed
     }
   }
 
   typeWriter();
 </script>
+
 
 
 
