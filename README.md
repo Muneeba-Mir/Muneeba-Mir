@@ -6,35 +6,122 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&pause=1200&color=2B2B2B&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Muneeba+Mir;Computer+Science+Student;SQA+Intern;AI+%26+Design+Enthusiast;Building+Quality+Step+by+Step"/>
+
+
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="280"/>
 </p>
 
+
+
+
+
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=0f2027&center=true&vCenter=true&width=600&lines=About%20Me"/>
+<!-- Capsule Heading -->
+#<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:71797E,100:0f2027&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn" alt="About Me Heading"/>
 </p>
 
+<!-- About Me text inside fixed width div -->
 <div align="center" style="width:600px; margin:auto; text-align:center;">
-Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <b>SQA Intern</b>. I love exploring <b>AI, software quality</b> and <b>creative design</b>. I focus on writing <b>clean code</b>, performing <b>rigorous testing</b>, and building <b>efficient solutions</b>.
+Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <b>SQA Intern</b>. I love exploring <b>AI, software quality</b><br></br>, and <b>creative design</b>. I focus on writing <b>clean code</b>, performing <b>rigorous testing</b>, and building <b>efficient solutions</b>.
 </div>
+<br></br>
+<!-- Table for structured info -->
+<table align="center" width="600" style="border-collapse: collapse; text-align: left;">
+  <tr>
+    <td width="200"><b>🎓 Education & Certifications</b></td>
+    <td>
+      • Bachelor in <b>Computer Science</b><br>
+      • <b>SQA Certified</b><br>
+      • <b>Bafferg Digital Marketer</b><br>
+      • <b>Video Editor</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><b>🤖 Current Learning</b></td>
+    <td>
+      • <b>Artificial Intelligence Fundamentals</b><br>
+      • <b>Practical Networking & Cloud Concepts</b><br>
+      • <b>Software Testing (Manual & Automation)</b><br>
+      • <b>Python Programming</b><br>
+      • <b>Basic AI Tools & Concepts</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><b>🛠 Technical Skills</b></td>
+    <td>
+      • <b>C & C++</b><br>
+      • <b>HTML & CSS</b><br>
+      • <b>Python (Learning)</b><br>
+      • <b>Cloud Computing (Basic Knowledge)</b><br>
+      • <b>Git & GitHub</b><br>
+      • <b>Software Testing & Quality Assurance</b><br>
+      • <b>UI/UX Design Basics</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><b>🎨 Creative & Design Skills</b></td>
+    <td>
+      • <b>Graphic Designing (Canva & Visual Content)</b><br>
+      • <b>Video Editing & Content Creation</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="200"><b>📚 Interests </b></td>
+    <td>
+      • Exploring <b>AI & ML projects</b><br>
+      • Building <b>mini web apps and tools</b><br>
+      • Designing <b>creative visuals</b><br>
+      • Problem-solving and coding challenges
+    </td>
+  </tr>
+</table>
 
+<br></br>
 <!-- ===================== CURRENT FOCUS ===================== -->
-
+<br></br>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=71797E&center=true&vCenter=true&width=600&lines=Current%20Focus"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
 </p>
-
-<!-- ===================== TECH STACK & SKILLS ===================== -->
+<br></br>
+<!-- Table layout: 2 boxes per row -->
+<table align="center" style="border-collapse: collapse; width: 600px; text-align:center;">
+  <tr>
+    <td bgcolor="#0f2027" style="padding:20px; color:white;">
+      🧪<br><b>Software QA</b>
+    </td>
+    <td bgcolor="#0f2027" style="padding:20px; color:white;">
+      💻<br><b>OOP (C++)</b>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0f2027" style="padding:20px; color:white;">
+      🧠<br><b>AI Basics</b>
+    </td>
+    <td bgcolor="#0f2027" style="padding:20px; color:white;">
+      🎨<br><b>UI & Graphic Design</b>
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#0f2027" style="padding:20px; color:white;">
+      🖌<br><b>Graphic Design</b>
+    </td>
+    <td bgcolor="#0f2027" style="padding:20px; color:white;">
+      🎬<br><b>Video Editing</b>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=71797E&center=true&vCenter=true&width=600&lines=Tech%20Stack%20%26%20Skills"/>
-</p>
 
 <p align="center">
+
+## 🛠️ Tech Stack & Skills
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,12 +132,18 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
 </p>
+
+
+
+
+
 
 <!-- ===================== GITHUB ANALYTICS ===================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=71797E&center=true&vCenter=true&width=600&lines=GitHub%20Analytics"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&fontWeight=700" alt="GitHub Analytics Heading"/>
 </p>
 
 <p align="center">
@@ -66,10 +159,12 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   <img src="https://github-profile-trophy.vercel.app/?username=Muneeba-Mir&theme=tokyonight&no-frame=true&row=1"/>
 </p>
 
+<br>
+
 <!-- ===================== CONTACT ===================== -->
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=ffffff&background=0f202743&center=true&vCenter=true&width=600&lines=Get%20in%20Touch"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Get%20in%20Touch&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Contact Heading"/>
 </p>
 
 <p align="center">
@@ -80,6 +175,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
