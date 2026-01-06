@@ -22,7 +22,7 @@
 
 <!-- Capsule Heading -->
 #<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:71797E,100:0f2027&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn" alt="About Me Heading"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:71797E,100:0f2027&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn" alt="About Me Heading"/>
 </p>
 
 <!-- About Me text inside fixed width div -->
@@ -175,6 +175,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 
 
