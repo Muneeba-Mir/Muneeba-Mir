@@ -20,22 +20,23 @@
 
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<!-- Animated About Me heading -->
+<!-- Animated heading -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=About+Me"/>
 </p>
 
-<!-- Tech-related image below heading (direct GitHub link) -->
+<!-- Tech-related image below heading -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muneeba-Mir/Muneeba-Mir/main/assets/tech_image.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Muneeba-Mir/Muneeba-Mir/main/assets/tech.png" width="300"/>
 </p>
 
-<!-- Short and centered About Me text -->
+<!-- Short, clean About Me text -->
 <p align="center">
 💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
 I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
 ✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
 </p>
+
 
 
 
