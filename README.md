@@ -25,45 +25,20 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
 </p>
 
-<!-- About Me Text -->
+<!-- About Me Table -->
 <p align="center">
 
-👩‍💻 **About Me**  
-Hi! I’m **Muneeba Mir**, a passionate **Computer Science student** and **SQA Intern**. I love exploring **AI, software quality**, and **creative design**. I focus on writing **clean code**, performing **rigorous testing**, and building **efficient solutions**.  
-
-🎓 **Education & Certifications**  
-• Bachelor in **Computer Science**  
-• **SQA Certified**  
-• **Bafferg Digital Marketer**  
-• **Video Editor**  
-
-🤖 **Current Learning**  
-• **Artificial Intelligence Fundamentals**  
-• **Practical Networking & Cloud Concepts**  
-• **Software Testing (Manual & Automation)**  
-• **Python Programming**  
-• **Basic AI Tools & Concepts**  
-
-🛠 **Technical Skills**  
-• **C & C++**  
-• **HTML & CSS**  
-• **Python (Learning)**  
-• **Cloud Computing (Basic Knowledge)**  
-• **Git & GitHub**  
-• **Software Testing & Quality Assurance**  
-• **UI/UX Design Basics**  
-
-🎨 **Creative & Design Skills**  
-• **Graphic Designing (Canva & Visual Content)**  
-• **Video Editing & Content Creation**  
-
-📚 **Interests & Hobbies**  
-• Exploring **AI & ML projects**  
-• Building **mini web apps and tools**  
-• Designing **creative visuals**  
-• Problem-solving and coding challenges  
+| **Section** | **Details** |
+|-------------|-------------|
+| 👩‍💻 **About Me** | Hi! I’m **Muneeba Mir**, a passionate **Computer Science student** and **SQA Intern**. I love exploring **AI, software quality**, and **creative design**. I focus on writing **clean code**, performing **rigorous testing**, and building **efficient solutions**. |
+| 🎓 **Education & Certifications** | • Bachelor in **Computer Science**<br>• **SQA Certified**<br>• **Bafferg Digital Marketer**<br>• **Video Editor** |
+| 🤖 **Current Learning** | • **Artificial Intelligence Fundamentals**<br>• **Practical Networking & Cloud Concepts**<br>• **Software Testing (Manual & Automation)**<br>• **Python Programming**<br>• **Basic AI Tools & Concepts** |
+| 🛠 **Technical Skills** | • **C & C++**<br>• **HTML & CSS**<br>• **Python (Learning)**<br>• **Cloud Computing (Basic Knowledge)**<br>• **Git & GitHub**<br>• **Software Testing & Quality Assurance**<br>• **UI/UX Design Basics** |
+| 🎨 **Creative & Design Skills** | • **Graphic Designing (Canva & Visual Content)**<br>• **Video Editing & Content Creation** |
+| 📚 **Interests & Hobbies** | • Exploring **AI & ML projects**<br>• Building **mini web apps and tools**<br>• Designing **creative visuals**<br>• Problem-solving and coding challenges |
 
 </p>
+
 
 
 
