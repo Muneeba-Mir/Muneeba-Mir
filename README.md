@@ -119,7 +119,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 <!-- ===================== TECH STACK & SKILLS ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack "/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Tech Stack%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack "/>
 </p>
 
 <p align="center">
