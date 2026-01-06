@@ -148,13 +148,6 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 
 
-<!-- ===================== CURRENT FOCUS ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Current Focus Heading"/>
-</p>
-
-<!-- ===================== CURRENT FOCUS ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" />
@@ -174,9 +167,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <!-- ===================== TECH STACK ===================== -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Tech%20Stack&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
-</p>
+
 
 <p align="center">
   <!-- Programming Languages -->
@@ -225,16 +216,6 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <br>
 
-<!-- ===================== CONTACT ===================== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Get%20in%20Touch&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Contact Heading"/>
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-203a43?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-0f2027?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 
 
