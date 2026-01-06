@@ -7,7 +7,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=1F2933&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Muneeba+Mir;Computer+Science+Student;SQA+Intern;AI+%26+Design+Enthusiast;Building+Quality+Step+by+Step"/>
 
-
 </p>
 
 <p align="center">
