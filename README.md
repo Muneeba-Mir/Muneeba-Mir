@@ -234,7 +234,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 <div align="center">
 
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=170&section=footer&fontSize=26&fontColor=ffffff&desc=“Quality%20is%20never%20an%20accident;%20it%20is%20always%20the%20result%20of%20intelligent%20effort.”&descAlign=50&descAlignY=72"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=170&section=footer&fontSize=26&fontColor=ffffff&desc=“Quality%20Is%20Never%20An%20Accident;%20It%20Is%20Always%20The%20Result%20Of%20Intelligent%20Effort.”&descAlign=50&descAlignY=72"/>
   </p>
 
 </div>
