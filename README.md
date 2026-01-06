@@ -166,18 +166,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 
 <br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=71797E&height=70&section=header&text=Popular%20Repositories&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Popular Repositories Heading"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeba-Mir&repo=Local-Repository &theme=tokyonight&bg_color=0f2027&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeba-Mir&repo=First Project &theme=tokyonight&bg_color=0f2027&hide_border=true"/>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneeba-Mir&repo=Muneeba Mir&theme=tokyonight&bg_color=0f2027&hide_border=true"/>
-
-</p>
 
 <!-- ===================== CONTACT ===================== -->
 
