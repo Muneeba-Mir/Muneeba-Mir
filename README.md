@@ -20,28 +20,26 @@
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ===================== ABOUT ME SECTION ===================== -->
 
-
-<h2 align="center">🌱 About Me</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=2B2B2B&center=true&vCenter=true&width=650&lines=About+Me"/>
+</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B2B2B,100:3A3A3A&height=100&section=header&text=About%20Me&fontSize=30&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
+  <img src="https://media.istockphoto.com/id/1276240732/vector/software-development-concept-coding-programming-and-testing-software-developer-or-engineer.jpg?s=612x612&w=is&k=20&c=5_Du-Q_kX9gW_SuRLGaJTHfjo-rpKkP1KjvM2URB1x4=" width="300"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="180"/>
+💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>delivering high-quality software</b> and exploring the ever-evolving world of <b>Artificial Intelligence</b>.<br><br>
+
+I enjoy designing <b>clean, efficient solutions</b>, analyzing systems critically, and testing rigorously to ensure reliability. My focus is on <b>learning by doing</b>, building strong programming concepts in <b>C++ and Python</b>, and applying <b>best practices in Software Quality Assurance</b>.<br><br>
+
+Beyond coding and testing, I am fascinated by <b>UI/UX and graphic design</b>, which allows me to create <b>user-friendly and visually appealing applications</b>. I continuously strive to improve my skills, embrace challenges, and contribute to projects that make a difference.<br><br>
+
+✨ <b>Strong believer in clean work, consistent learning, and building solid foundations for a successful tech career.</b>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=20&pause=1000&color=2B2B2B&center=true&vCenter=true&width=650&lines=Hi!+I'm+Muneeba+Mir;A+Computer+Science+Student;SQA+Intern+&+AI+Enthusiast;Passionate+about+Quality+and+Clean+Design;Always+Learning+by+Doing"/>
-</p>
-
-<p align="center">
-💡 Passionate about <b>Software Quality Assurance</b>, <b>AI foundations</b>, and <b>clean design</b><br>
-📚 Building strong concepts in <b>Programming, OOP & Testing</b><br>
-✨ Believe in <i>consistent learning, clean work & strong foundations</i>
-</p>
 
 
 <!-- ===================== CURRENT FOCUS ===================== -->
