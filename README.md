@@ -146,13 +146,6 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <br>
 
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Current%20Focus&fontSize=32&fontColor=ffffff&fontWeight=700" />
-</p>
-
 <table align="center" style="width:600px; text-align:center; border-collapse: collapse;">
   <tr>
     <td style="padding:20px;">
