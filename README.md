@@ -5,7 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=9FEAF9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Muneeba+Mir;Computer+Science+Student;SQA+Intern;AI+%26+Design+Enthusiast;Building+Quality+Step+by+Step"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=38F2FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Muneeba+Mir;Computer+Science+Student;SQA+Intern;AI+%26+Design+Enthusiast;Building+Quality+Step+by+Step"/>
+
 </p>
 
 <p align="center">
