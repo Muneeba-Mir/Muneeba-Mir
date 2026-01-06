@@ -20,24 +20,23 @@
 
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<!-- Animated heading inside rectangle with Welcome banner color -->
+<!-- Animated About Me heading -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=About+Me"/>
 </p>
 
 <!-- Tech-related image below heading -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581091870628-813c70c05b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="320"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/software-development/software-development.png" width="300"/>
 </p>
 
-<!-- Shortened and clean About Me text -->
+<!-- Short and centered About Me text -->
 <p align="center">
 💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
-
 I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
-
 ✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
 </p>
+
 
 
 
