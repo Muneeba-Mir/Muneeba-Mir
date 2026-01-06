@@ -90,23 +90,38 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
 
 <p align="center">
 
-<!-- Animated icons for each focus area -->
-<img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60" alt="OOP C++"/> &nbsp;
-<b>OOP (C++)</b> &nbsp;|&nbsp;
+<!-- OOP C++ -->
+<span style="display:inline-block; margin: 0 20px; text-align:center;">
+  <img src="https://cdn.dribbble.com/users/118441/screenshots/2805033/animated-code-icon.gif" width="60" alt="OOP C++"/><br>
+  <b>OOP (C++)</b>
+</span>
 
-<img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60" alt="SQA"/> &nbsp;
-<b>Software Quality Assurance</b> &nbsp;|&nbsp;
+<!-- Software Quality Assurance -->
+<span style="display:inline-block; margin: 0 20px; text-align:center;">
+  <img src="https://cdn.dribbble.com/users/210137/screenshots/6034408/testing-animated-icon.gif" width="60" alt="SQA"/><br>
+  <b>Software QA</b>
+</span>
 
-<img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60" alt="AI Basics"/> &nbsp;
-<b>AI Basics</b> &nbsp;|&nbsp;
+<!-- AI Basics -->
+<span style="display:inline-block; margin: 0 20px; text-align:center;">
+  <img src="https://cdn.dribbble.com/users/118441/screenshots/3865471/ai-animated-icon.gif" width="60" alt="AI Basics"/><br>
+  <b>AI Basics</b>
+</span>
 
-<img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60" alt="UI Design"/> &nbsp;
-<b>UI & Graphic Design</b> &nbsp;|&nbsp;
+<!-- UI & Graphic Design -->
+<span style="display:inline-block; margin: 0 20px; text-align:center;">
+  <img src="https://cdn.dribbble.com/users/118441/screenshots/3304871/design-animated-icon.gif" width="60" alt="UI & Graphic Design"/><br>
+  <b>UI & Graphic Design</b>
+</span>
 
-<img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60" alt="Graphic Design"/> &nbsp;
-<b>Graphic Design</b>
+<!-- Graphic Design -->
+<span style="display:inline-block; margin: 0 20px; text-align:center;">
+  <img src="https://cdn.dribbble.com/users/210137/screenshots/6422172/graphic-design-animated.gif" width="60" alt="Graphic Design"/><br>
+  <b>Graphic Design</b>
+</span>
 
 </p>
+
 
 
 <!-- ===================== ANIMATED TECH STACK ===================== -->
