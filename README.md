@@ -23,23 +23,27 @@
 <!-- Animated heading inside rectangle box -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=2B2B2B&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
+<!-- ===================== ABOUT ME SECTION ===================== -->
+
+<!-- Animated heading inside rectangle with Welcome banner color -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
 </p>
 
 <!-- Tech-related image below heading -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1581091870628-813c70c05b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTI0NjB8MHwxfHNlYXJjaHwxfHx0ZWNobm9sb2d5JTIwY29tcHV0ZXIlMjBkZXZlbG9wbWVudHxlbnwwfHx8fDE2OTkxMzI1NjQ&ixlib=rb-4.0.3&q=80&w=400" width="320"/>
+  <img src="https://images.unsplash.com/photo-1581091870628-813c70c05b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=400" width="320"/>
 </p>
 
-<!-- Extended About Me text -->
+<!-- Shortened and clean About Me text -->
 <p align="center">
-💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>delivering high-quality software</b> and exploring the evolving world of <b>Artificial Intelligence</b>.<br><br>
+💡 Hi! I’m <b>Muneeba Mir</b>, a <b>Computer Science student</b> and <b>SQA Intern</b> passionate about <b>high-quality software</b> and exploring <b>AI & Design</b>.<br><br>
 
-I enjoy designing <b>clean, efficient solutions</b>, analyzing systems critically, and testing rigorously to ensure reliability. I’m focused on <b>learning by doing</b>, building strong programming concepts in <b>C++ and Python</b>, and applying <b>best practices in Software Quality Assurance</b>.<br><br>
+I focus on <b>clean coding</b>, <b>rigorous testing</b>, and <b>learning by doing</b>. I enjoy building efficient solutions in <b>C++ & Python</b> and creating <b>user-friendly designs</b>.<br><br>
 
-Beyond coding and testing, I love <b>UI/UX and graphic design</b>, which allows me to create <b>user-friendly and visually appealing applications</b>. I continuously strive to improve my skills, embrace challenges, and contribute to projects that make a difference.<br><br>
-
-✨ <b>Strong believer in clean work, consistent learning, and building solid foundations for a successful tech career.</b>
+✨ <b>Believer in clean work, consistent learning, and strong foundations.</b>
 </p>
+
 
 
 
