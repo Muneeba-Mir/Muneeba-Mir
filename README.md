@@ -25,15 +25,15 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700" alt="About Me Heading"/>
 </p>
 
-<!-- About Me Table (aligned with rectangle width) -->
-<table align="center" width="600" style="border-collapse: collapse; text-align: left;">
+<!-- About Me Table (styled, aligned with rectangle width) -->
+<table align="center" width="600" style="border-collapse: collapse; text-align: left; background-color: #1a2a40; border: 1px solid #0f2027; border-radius: 8px;">
   <tr>
-    <td style="padding: 10px; font-weight: bold;">👩‍💻 About Me</td>
-    <td style="padding: 10px;">Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <b>SQA Intern</b>. I love exploring <b>AI, software quality</b>, and <b>creative design</b>. I focus on writing <b>clean code</b>, performing <b>rigorous testing</b>, and building <b>efficient solutions</b>.</td>
+    <td style="padding: 12px; font-weight: bold; color: #ffffff; border-bottom: 1px solid #0f2027;">👩‍💻 About Me</td>
+    <td style="padding: 12px; color: #e0e0e0; border-bottom: 1px solid #0f2027;">Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <b>SQA Intern</b>. I love exploring <b>AI, software quality</b>, and <b>creative design</b>. I focus on writing <b>clean code</b>, performing <b>rigorous testing</b>, and building <b>efficient solutions</b>.</td>
   </tr>
   <tr>
-    <td style="padding: 10px; font-weight: bold;">🎓 Education & Certifications</td>
-    <td style="padding: 10px;">
+    <td style="padding: 12px; font-weight: bold; color: #ffffff; border-bottom: 1px solid #0f2027;">🎓 Education & Certifications</td>
+    <td style="padding: 12px; color: #e0e0e0; border-bottom: 1px solid #0f2027;">
       • Bachelor in <b>Computer Science</b><br>
       • <b>SQA Certified</b><br>
       • <b>Bafferg Digital Marketer</b><br>
@@ -41,8 +41,8 @@
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px; font-weight: bold;">🤖 Current Learning</td>
-    <td style="padding: 10px;">
+    <td style="padding: 12px; font-weight: bold; color: #ffffff; border-bottom: 1px solid #0f2027;">🤖 Current Learning</td>
+    <td style="padding: 12px; color: #e0e0e0; border-bottom: 1px solid #0f2027;">
       • <b>Artificial Intelligence Fundamentals</b><br>
       • <b>Practical Networking & Cloud Concepts</b><br>
       • <b>Software Testing (Manual & Automation)</b><br>
@@ -51,8 +51,8 @@
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px; font-weight: bold;">🛠 Technical Skills</td>
-    <td style="padding: 10px;">
+    <td style="padding: 12px; font-weight: bold; color: #ffffff; border-bottom: 1px solid #0f2027;">🛠 Technical Skills</td>
+    <td style="padding: 12px; color: #e0e0e0; border-bottom: 1px solid #0f2027;">
       • <b>C & C++</b><br>
       • <b>HTML & CSS</b><br>
       • <b>Python (Learning)</b><br>
@@ -63,15 +63,15 @@
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px; font-weight: bold;">🎨 Creative & Design Skills</td>
-    <td style="padding: 10px;">
+    <td style="padding: 12px; font-weight: bold; color: #ffffff; border-bottom: 1px solid #0f2027;">🎨 Creative & Design Skills</td>
+    <td style="padding: 12px; color: #e0e0e0; border-bottom: 1px solid #0f2027;">
       • <b>Graphic Designing (Canva & Visual Content)</b><br>
       • <b>Video Editing & Content Creation</b>
     </td>
   </tr>
   <tr>
-    <td style="padding: 10px; font-weight: bold;">📚 Interests & Hobbies</td>
-    <td style="padding: 10px;">
+    <td style="padding: 12px; font-weight: bold; color: #ffffff;">📚 Interests & Hobbies</td>
+    <td style="padding: 12px; color: #e0e0e0;">
       • Exploring <b>AI & ML projects</b><br>
       • Building <b>mini web apps and tools</b><br>
       • Designing <b>creative visuals</b><br>
@@ -79,6 +79,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
