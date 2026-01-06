@@ -20,11 +20,6 @@
 
 <!-- ===================== ABOUT ME SECTION ===================== -->
 
-<!-- Animated heading inside rectangle box -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2B2B2B&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
-<!-- ===================== ABOUT ME SECTION ===================== -->
-
 <!-- Animated heading inside rectangle with Welcome banner color -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,100:203a43&height=70&section=header&text=About%20Me&fontSize=32&fontColor=ffffff&fontWeight=700&animation=fadeIn"/>
