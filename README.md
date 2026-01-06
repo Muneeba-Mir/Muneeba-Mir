@@ -116,13 +116,10 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
   </tr>
 </table>
 
-<!-- ===================== TECH STACK & SKILLS ===================== -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f202743&height=70&section=header&text=Tech+Stack+%26+Skills&fontSize=32&fontColor=ffffff&fontWeight=700" alt="Tech Stack Heading"/>
 </p>
 
-<!-- Horizontal table for skills -->
 <table align="center">
   <tr>
     <td align="center" style="padding:10px;">
@@ -162,6 +159,7 @@ Hi! I’m <b>Muneeba Mir</b>, a passionate <b>Computer Science student</b> and <
     </td>
   </tr>
 </table>
+
 
 
 
